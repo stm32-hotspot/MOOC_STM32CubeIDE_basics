@@ -1,7 +1,7 @@
-# MOOC STM32CubeMX & CubeHAL basics
+# MOOC STM32CubeIDE basics
 
 WARNING  : 
-    This material has been created in 2019 and is delivered as it is.
+    This material has been created in 2023 and is delivered as it is.
 
 ## MOOC purpose 
 
@@ -9,19 +9,12 @@ Discover how using STM32Cube reduces development effort, time and cost
 
 
 ## Prerequisites
-- NUCLEO-F401RE is required for the hands-on exercises included in the course.
+- NUCLEO-G071RB board
+- microUSB cable
 - Type A to type B miniUSB cable
 - Laptop PC running Windows® 7, 8 or 10 with administrator rights and the following software installed:
-    - current version of Keil uVision with MCU data pack within MDK-ARM toolchain
-        - start the MDK-ARM application and press “Pack installer” button
-        - install STM32F4 family, STM32NUCLEO and CMSIS data packs
-    - current version of SW4STM32
-    - current version of Atollic TrueStudio
-    - current version of IAR EWARM
-    - current version of STM32CubeMX
-    - STM32F4 Cube library
-    - STLink Driver
+    - STM32CubeIDE with STM32G0 Cube library preinstalled 
 
 ## MOOC link 
-https://www.youtube.com/playlist?list=PLnMKNibPkDnGtuIl5v0CvC81Am7SKpj02
+https://www.youtube.com/playlist?list=PLnMKNibPkDnFCosVVv98U5dCulE6T3Iy8
 
