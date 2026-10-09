@@ -1,7 +1,6 @@
 # MOOC STM32CubeIDE basics
 
-WARNING  : 
-    This material has been created in 2023 and is delivered as it is.
+Disclaimer: This material was created in 2023 and is delivered as is.
 
 ## MOOC purpose 
 
